@@ -28,52 +28,105 @@
 24. Calcule el voltaje para cada valor de I y R:
   
   a) I = 1 mA, R = 10Ω
+  
   V = 1 mA × 10 Ω = 10 mV
   
+  
   b) I = 50 mA, R = 33Ω
+  
   V = 50 mA × 33 Ω = 1650 mV
   
+  
   c) I = 3 A, R = 5.6 kΩ
+  
   V = 3 A × 5.6 kΩ = 16.8 kV
   
+  
   d) I = 1.6 mA, R = 2.2 kΩ
+  
   V = 1.6 mA × 2.2 kΩ = 3.52 V
   
+  
+  e) I = 250 mA, R = 1.0 kΩ
+  
+  V = 250 mA × 1.0 kΩ = 250 V
+  
+  
+  f) I = 500 mA, R = 1.5 MΩ
+  
+  V = 500 mA × 1.5 MΩ = 750 kV
+  
+  
+  g) I = 850 mA, R = 10 MΩ
+  
+  V = 850 mA × 10 MΩ = 8.5 MV
+ 
+  
+  h) I = 75 mA, R = 47 Ω
+  
+  V = 75 mA × 47 Ω = 3.525 V
+  
+  
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
-
-27. Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100. Determine lo siguiente:
+![image](https://user-images.githubusercontent.com/105684550/170419966-4f1f5d6a-74ba-470a-96a5-f939cb6cc63b.png)
+  a) V = 3 mA × 27 kΩ = 81 V
+  
+  b) V = 5 µA × 100 MΩ = 500 V
+  
+  c) V = 2.5 A × 47 Ω = 117.5 V
+  
 
 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
-29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+  a) V = 10 V, I = 2 A
+  
+  R = 10 V / 2 A = 5 Ω
+  
+  
+  b) V = 90 V, I = 45 A
+  
+  V = 90 V / 45 A = 2 Ω
+  
+  
+  c) V = 50 V, I = 5 A
+  
+  V = 50 V / 5 A = 10 Ω
+  
+  
+  d) V = 5.5 V, I = 10 A
+  
+  V = 5.5 V × 10 A = 0.55 Ω
+  
+  
+  e) V = 150 V, I = 0.5 A
+  
+  V = 150 V × 0.5 A = 300 Ω
+  
 
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
-31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+R = V / I
+R = 6 V / 2 mA = 3 kΩ
 
 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
 amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
-33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de
-este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
-es el problema con el circuito?
+Datos:
+- V = 12 V
+- I = 1 A
+
+Proceso:
+
+R = V / I
+
+R = 12 V / 1 A = 12 Ω
+
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
 excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.
 
-35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
 
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
 ohmmetro mostradas.
 
-37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
-38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apropiadamente.
-
-39. Abra el archivo P03-39 y mida los valores de resistencia de los resistores.
-
-40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.
-
-41. Abra el archivo P03-41 y determine el valor del voltaje de la fuente y la resistencia.
-
-42. Abra el archivo P03-42 y encuentre el problema con el circuito.
