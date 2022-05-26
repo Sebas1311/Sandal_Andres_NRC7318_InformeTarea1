@@ -27,78 +27,78 @@
 
 24. Calcule el voltaje para cada valor de I y R:
   
-  a) I = 1 mA, R = 10Ω
+  - a) I = 1 mA, R = 10Ω
   
   V = 1 mA × 10 Ω = 10 mV
   
   
-  b) I = 50 mA, R = 33Ω
+  - b) I = 50 mA, R = 33Ω
   
   V = 50 mA × 33 Ω = 1650 mV
   
   
-  c) I = 3 A, R = 5.6 kΩ
+  - c) I = 3 A, R = 5.6 kΩ
   
   V = 3 A × 5.6 kΩ = 16.8 kV
   
   
-  d) I = 1.6 mA, R = 2.2 kΩ
+  - d) I = 1.6 mA, R = 2.2 kΩ
   
   V = 1.6 mA × 2.2 kΩ = 3.52 V
   
   
-  e) I = 250 mA, R = 1.0 kΩ
+  - e) I = 250 mA, R = 1.0 kΩ
   
   V = 250 mA × 1.0 kΩ = 250 V
   
   
-  f) I = 500 mA, R = 1.5 MΩ
+  - f) I = 500 mA, R = 1.5 MΩ
   
   V = 500 mA × 1.5 MΩ = 750 kV
   
   
-  g) I = 850 mA, R = 10 MΩ
+  - g) I = 850 mA, R = 10 MΩ
   
   V = 850 mA × 10 MΩ = 8.5 MV
  
   
-  h) I = 75 mA, R = 47 Ω
+  - h) I = 75 mA, R = 47 Ω
   
   V = 75 mA × 47 Ω = 3.525 V
   
   
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 ![image](https://user-images.githubusercontent.com/105684550/170419966-4f1f5d6a-74ba-470a-96a5-f939cb6cc63b.png)
-  a) V = 3 mA × 27 kΩ = 81 V
+  - a) V = 3 mA × 27 kΩ = 81 V
   
-  b) V = 5 µA × 100 MΩ = 500 V
+  - b) V = 5 µA × 100 MΩ = 500 V
   
-  c) V = 2.5 A × 47 Ω = 117.5 V
+  - c) V = 2.5 A × 47 Ω = 117.5 V
   
 
 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
-  a) V = 10 V, I = 2 A
+  - a) V = 10 V, I = 2 A
   
   R = 10 V / 2 A = 5 Ω
   
   
-  b) V = 90 V, I = 45 A
+  - b) V = 90 V, I = 45 A
   
   V = 90 V / 45 A = 2 Ω
   
   
-  c) V = 50 V, I = 5 A
+  - c) V = 50 V, I = 5 A
   
   V = 50 V / 5 A = 10 Ω
   
   
-  d) V = 5.5 V, I = 10 A
+  - d) V = 5.5 V, I = 10 A
   
   V = 5.5 V × 10 A = 0.55 Ω
   
   
-  e) V = 150 V, I = 0.5 A
+  - e) V = 150 V, I = 0.5 A
   
   V = 150 V × 0.5 A = 300 Ω
   
@@ -106,6 +106,7 @@
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
 R = V / I
+
 R = 6 V / 2 mA = 3 kΩ
 
 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
