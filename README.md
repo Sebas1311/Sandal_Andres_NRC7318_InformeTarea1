@@ -26,16 +26,17 @@
 - El fusible debe ser de 2.5 A para proteger el circuito.
 
 24. Calcule el voltaje para cada valor de I y R:
-  a.- I = 1 mA, R = 10Ω
+  
+  a) I = 1 mA, R = 10Ω
   V = 1 mA × 10 Ω = 10 mV
   
-  b.- I = 50 mA, R = 33Ω
+  b) I = 50 mA, R = 33Ω
   V = 50 mA × 33 Ω = 1650 mV
   
-  c.- I = 3 A, R = 5.6 kΩ
+  c) I = 3 A, R = 5.6 kΩ
   V = 3 A × 5.6 kΩ = 16.8 kV
   
-  d.- I = 1.6 mA, R = 2.2 kΩ
+  d) I = 1.6 mA, R = 2.2 kΩ
   V = 1.6 mA × 2.2 kΩ = 3.52 V
   
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
