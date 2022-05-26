@@ -124,9 +124,17 @@ R = V / I
 R = 12 V / 1 A = 12 Ω
 
 
-34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.
 
+Datos:
+- V = 120 V
+- I = 2 A
 
+Proceso:
+
+R = V / I
+
+R = 120 V / 2 A = 60 Ω
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 ![image](https://user-images.githubusercontent.com/105684550/170428359-efdd72ba-4678-4ab7-822a-b18f867e1fc8.png)
 
