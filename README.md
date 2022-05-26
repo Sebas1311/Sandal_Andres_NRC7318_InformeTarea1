@@ -68,6 +68,7 @@
   
   
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
 ![image](https://user-images.githubusercontent.com/105684550/170424569-b46a9296-ea80-4c0e-b1ee-07dfa5ce69dc.png)
   - a) V = 3 mA × 27 kΩ = 81 V
   
@@ -123,11 +124,10 @@ R = V / I
 R = 12 V / 1 A = 12 Ω
 
 
-34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
-excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.
 
 
-36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
-ohmmetro mostradas.
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+![image](https://user-images.githubusercontent.com/105684550/170428359-efdd72ba-4678-4ab7-822a-b18f867e1fc8.png)
 
-
+En base a la imagen expuesta, se ha deducido que el foco fundio seria el número 4, es decir, el foco que se mide en el paso 4.
