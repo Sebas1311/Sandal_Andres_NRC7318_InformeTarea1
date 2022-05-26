@@ -68,7 +68,7 @@
   
   
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
-![image](https://user-images.githubusercontent.com/105684550/170419966-4f1f5d6a-74ba-470a-96a5-f939cb6cc63b.png)
+![image](https://user-images.githubusercontent.com/105684550/170424569-b46a9296-ea80-4c0e-b1ee-07dfa5ce69dc.png)
   - a) V = 3 mA × 27 kΩ = 81 V
   
   - b) V = 5 µA × 100 MΩ = 500 V
